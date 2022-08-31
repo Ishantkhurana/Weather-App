@@ -1,4 +1,4 @@
-Hey👋👋!!This is a weather app built using HTML,CSS & Javascript💻.This weather app fetches weather data directly from open source api and also it fecthes random images and sets it to background to enhance the UI everytime search button is clicked.
+Hey👋!!This is a weather app built using HTML,CSS & Javascript💻.This weather app fetches weather data directly from open source api and also it fecthes random images and sets it to background to enhance the UI everytime search button is clicked.
 This website is published at 👉 <a href="https://ishantkhurana.github.io/Weather-App/" target="_balnk">https://ishantkhurana.github.io/Weather-App/</a>.
 You can view some of the screenshots below👇👇👇
 
